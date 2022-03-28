@@ -1,0 +1,11 @@
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio\bin\Debug\Exercicio22-03-2022-CalculandoRaio.exe.config
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio\bin\Debug\Exercicio22-03-2022-CalculandoRaio.exe
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio\bin\Debug\Exercicio22-03-2022-CalculandoRaio.pdb
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio\obj\Debug\Exercicio22-03-2022-CalculandoRaio.csproj.AssemblyReference.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio\obj\Debug\Exercicio22-03-2022-CalculandoRaio.csproj.SuggestedBindingRedirects.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio\obj\Debug\Exercicio22_03_2022_CalculandoRaio.Form1.resources
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio\obj\Debug\Exercicio22_03_2022_CalculandoRaio.Properties.Resources.resources
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio\obj\Debug\Exercicio22-03-2022-CalculandoRaio.csproj.GenerateResource.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio\obj\Debug\Exercicio22-03-2022-CalculandoRaio.csproj.CoreCompileInputs.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio\obj\Debug\Exercicio22-03-2022-CalculandoRaio.exe
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio\obj\Debug\Exercicio22-03-2022-CalculandoRaio.pdb
