@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio22-03-2022-CalculandoRaio", "Exercicio22-03-2022-CalculandoRaio\Exercicio22-03-2022-CalculandoRaio.csproj", "{81FB1A24-9020-44B8-8913-EE600EDB884F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81FB1A24-9020-44B8-8913-EE600EDB884F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FB1A24-9020-44B8-8913-EE600EDB884F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FB1A24-9020-44B8-8913-EE600EDB884F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FB1A24-9020-44B8-8913-EE600EDB884F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2410ED9A-AC52-4D1E-BFE3-C2ACE460EF5F}
+	EndGlobalSection
+EndGlobal
